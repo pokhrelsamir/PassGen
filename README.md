@@ -23,16 +23,13 @@ A lightweight password generator built with **HTML, CSS, and JavaScript** for cr
 
 ### Landing Page
 
-<div align="center">
-
-<img
-    width="1875"
-    height="800"
-    alt="PassGen Landing Page"
+<p align="center">
+  <img
     src="https://github.com/user-attachments/assets/ee58b339-bedc-4409-ba0e-47a1896fa996"
->
-
-</div>
+    alt="PassGen Password Generator"
+    width="100%"
+  >
+</p>
 
 
 
