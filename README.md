@@ -21,21 +21,19 @@ A lightweight password generator built with **HTML, CSS, and JavaScript** for cr
 
 ## 📸 Screenshots
 
-### Desktop
+### Landing Page
 
 <div align="center">
 
-<img src="assets/screenshots/main.png" alt="PassGen Desktop Screenshot" width="850">
+<img
+    width="1875"
+    height="800"
+    alt="PassGen Landing Page"
+    src="https://github.com/user-attachments/assets/ee58b339-bedc-4409-ba0e-47a1896fa996"
+>
 
 </div>
 
-### Mobile
-
-<div align="center">
-
-<img src="assets/screenshots/mobile.png" alt="PassGen Mobile Screenshot" width="350">
-
-</div>
 
 
 
