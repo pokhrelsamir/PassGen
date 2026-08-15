@@ -37,11 +37,7 @@ A lightweight password generator built with **HTML, CSS, and JavaScript** for cr
 
 </div>
 
-> **Note:** Add your screenshots to:
->
-> `assets/screenshots/main.png`
->
-> `assets/screenshots/mobile.png`
+
 
 ---
 
